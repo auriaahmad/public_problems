@@ -1,0 +1,8 @@
+step 1: clone the up to date repository form github.com/rust-embedded/discovery
+step 2: open the location of repository in terminal
+step 3: run following commands 
+        cargo install mdbook
+        mdbook build
+        mdbook serve (Don't close this terminal)
+step 4:
+        open your browser and write localhost:3000 in url
